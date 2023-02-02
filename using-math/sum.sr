@@ -1,0 +1,9 @@
+#include <CStar/CStar.h>
+
+Int main() {
+	Int x = 1;
+	Int y = 2;
+	Int result = x + y;
+
+	Println(result);
+}

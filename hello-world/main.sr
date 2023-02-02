@@ -1,0 +1,5 @@
+#include <CStar/CStar.h>
+
+Int main() {
+	Println("Hello World");
+}

@@ -1,0 +1,7 @@
+#include <CStar/CStar.h>
+
+Int main() {
+	Int x = 4;
+
+	Sqrt(x);
+}
